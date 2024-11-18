@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment 10/Assignment 10.iml" filepath="$PROJECT_DIR$/Assignment 10/Assignment 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 11/Assignment 11.iml" filepath="$PROJECT_DIR$/Assignment 11/Assignment 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 7/Assignment 7.iml" filepath="$PROJECT_DIR$/Assignment 7/Assignment 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 8/Assignment 8.iml" filepath="$PROJECT_DIR$/Assignment 8/Assignment 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 9/Assignment 9.iml" filepath="$PROJECT_DIR$/Assignment 9/Assignment 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog1 Github.iml" filepath="$PROJECT_DIR$/Prog1 Github.iml" />
+    </modules>
+  </component>
+</project>
